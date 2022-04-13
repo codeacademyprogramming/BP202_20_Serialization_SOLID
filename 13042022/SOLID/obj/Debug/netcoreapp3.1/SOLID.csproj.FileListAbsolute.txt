@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\BP202\23. 13042022\13042022\SOLID\bin\Debug\netcoreapp3.1\SOLID.exe
+C:\Users\Eagha\Desktop\CodeLessons\BP202\23. 13042022\13042022\SOLID\bin\Debug\netcoreapp3.1\SOLID.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\23. 13042022\13042022\SOLID\bin\Debug\netcoreapp3.1\SOLID.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\23. 13042022\13042022\SOLID\bin\Debug\netcoreapp3.1\SOLID.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\23. 13042022\13042022\SOLID\bin\Debug\netcoreapp3.1\SOLID.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\23. 13042022\13042022\SOLID\bin\Debug\netcoreapp3.1\SOLID.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\23. 13042022\13042022\SOLID\obj\Debug\netcoreapp3.1\SOLID.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\23. 13042022\13042022\SOLID\obj\Debug\netcoreapp3.1\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\BP202\23. 13042022\13042022\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\23. 13042022\13042022\SOLID\obj\Debug\netcoreapp3.1\SOLID.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\BP202\23. 13042022\13042022\SOLID\obj\Debug\netcoreapp3.1\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\23. 13042022\13042022\SOLID\obj\Debug\netcoreapp3.1\SOLID.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\23. 13042022\13042022\SOLID\obj\Debug\netcoreapp3.1\SOLID.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\23. 13042022\13042022\SOLID\obj\Debug\netcoreapp3.1\SOLID.genruntimeconfig.cache
